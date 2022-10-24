@@ -1,0 +1,12 @@
+[
+    {
+        "id": "master",
+        "name": "master",
+        "displayName": "Master"
+    },
+    {
+        "id": "top-master",
+        "name": "top-master",
+        "displayName": "Top-master"
+    }
+]

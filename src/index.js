@@ -1,6 +1,7 @@
-import React from 'react'
-import styles from './styles.module.css'
+import Email from './components/Email'
+import ErrorMessage from './components/ErrorMessage'
+import Carosel from './components/Carosel'
+import FullScreenLoader from './components/FullScreenLoader'
+import Price from './components/Price'
 
-export const ExampleComponent = ({ text }) => {
-  return <div className={styles.test}>Example Component: {text}</div>
-}
+export { Email, ErrorMessage, Carosel, FullScreenLoader, Price }
